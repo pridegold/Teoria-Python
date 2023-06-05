@@ -3,13 +3,13 @@ Acá les dejo una teoría básica sobre python, espero les sirva! Voy a ir actua
 ### Features
 
 **Table of Contents**
-#H1 Prints
-##H2 Data Type
-##H3 User Inputs
-##H4 Loops
-##H5 Lists, Tuples and Dictionarys
-##H6 Funciones
-##H7 File Detection, read, write and delete.
-##H6 Conditions
-##H6 Y mucho mas!!!
+Prints
+Data Type
+User Inputs
+Loops
+Lists, Tuples and Dictionarys
+Funciones
+File Detection, read, write and delete.
+Conditions
+Y mucho mas!!!
 

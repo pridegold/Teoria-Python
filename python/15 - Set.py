@@ -23,8 +23,8 @@ for i in cena:
     print(i)
 
 print(cocina.difference(elementos)) # Mediante .difference, el programa nos devolvera en forma de set, los valores que contiene un set, que le faltan al otro.
-print(cocina.intersection(elementos))
-print(cocina)
+print(cocina.intersection(elementos)) # Mediante .intersection el programa nos devuelve los elementos en comun entre los 2 sets.
+
 
 
 

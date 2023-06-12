@@ -9,10 +9,12 @@ def multiplicacion (numero1, numero2):
 print(multiplicacion(6, 5))
 
 # Podemos asignar la funcion a una variable
-z = int(input("Numero 1 "))
-y = int(input("Numero 2 "))
-
-print(multiplicacion(z, y))
-
 x = multiplicacion(3, 3)
 print(x)
+
+
+# Tambien hacerlo con user inputs.
+z = int(input("Inserte el Numero 1 "))
+y = int(input("Inserte el Numero 2 "))
+
+print(multiplicacion(z, y))

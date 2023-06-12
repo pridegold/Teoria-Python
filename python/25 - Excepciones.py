@@ -26,5 +26,5 @@ except Exception:
 else:
     print(resultado)
 
-finally:
+finally: # Util para file detection, lo vemos en el siguiente archivo.
     print("Esto siempre se va a ejecutar")

@@ -11,4 +11,3 @@ numero = 3.14159
 numero1 = 1000
 print("El numero pi es {:.2f}".format(numero)) #.f es para .floating number, entonces solo voy a tomar los 2 decimales de dicho numero en cuestion en este caso
 print("El numero pi es {:,}".format(numero1)) # Para agregarle una , o . al numero
-print("El numero pi es {:,}".format(numero1))

@@ -4,3 +4,4 @@
 import shutil
 
 shutil.copyfile("C:\\Users\\damia\\Desktop\\texto.txt", "C:\\Users\\damia\\Desktop\\copia.txt")
+                  #src = Primero pasamos el origen , # Destino

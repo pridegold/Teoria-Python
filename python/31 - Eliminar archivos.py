@@ -32,9 +32,10 @@ ruta2 = "python\\carpeta"
 
 try:
     #os.rmdir(ruta2)   # Como la carpeta en cuestion tiene archivos dentro, debemos importar el modulo shutil ---> import shutil (lo estarian viendo la linea 2 de este codigo)
-    shutil.rmtree(ruta2)
+    shutil.rmtree(ruta2) # Considerado un comando peligroso ya que pueda borrar todo lo que una carpeta contenga.
 except FileNotFoundError:
     print("Archivo no encontrado")
 
 else:
     print(f"{ruta2} ha sido borrada")
+

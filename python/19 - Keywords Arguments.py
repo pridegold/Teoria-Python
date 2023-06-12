@@ -12,6 +12,7 @@ def hola(primero, segundo, tercero):
 hola("Damian","Ariel","Lopez")
 hola("Ariel","Damian","Lopez")
 
-# Pero si uso los Keywords no importa el orden en como los coloque a la hora de llamar a la funcion
 
-hola(tercero="Lopez", primero="Damian", segundo="Ariel")
+
+# Pero si uso los Keywords no importa el orden en como los coloque a la hora de llamar a la funcion
+hola(tercero="Lopez", primero="Damian", segundo="Ariel")  

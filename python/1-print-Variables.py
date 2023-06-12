@@ -1,12 +1,12 @@
 #Teoria Python Damian Lopez Peduzzi
 
-# Print para escribir
+# Print ---> Para mostrar texto
 
 print("hola mundo")
 
 # Variables y Data
 
-## INTEGERS
+## INTEGERS  --> Numeros enteros
 
 edad = 25
 jugadores = 2
@@ -17,19 +17,18 @@ print(f"Yo tengo {jugadores} jugadores")
 print(f"Yo tengo {cantidad} perros")
 
 
-## FLOAT
-# Variables que pueden contener decimales como por ejemplo 
+## FLOAT ----> Decimales como por ejemplo 
 numero = 20.5
 print(numero)
 
-#String
+#Strings
 
 name = "Damian"
 food = "Pizza"
 
 print(F"mi nombre es {name} y mi comida favorita es la {food}")
 
-# boolean son solo verdadero o falso
+# Boolean son solo verdadero o falso
 
 online = True
 for_sale = False
